@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="image_desc">Gambar</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_btn_signin">Masuk</string>
+    <string name="label_login_have_account">Belum punya akun?</string>
+    <string name="label_btn_register">Daftar Sekarang</string>
+    <string name="label_register_have_account">Sudah punya akun?</string>
+    <string name="label_nama">Nama Lengkap</string>
+    <string name="message_error_email_format">Format Email tidak sesuai</string>
+    <string name="message_error_typing_password">Jumlah password tidak boleh kurang dari 6 karakter</string>
+    <string name="label_loading">Tunggu sebentar…</string>
+    <string name="label_dialog_positive_action">Oke</string>
+    <string name="lebel_informasi">Informasi</string>
+    <string name="label_daftar">Daftar Baru</string>
+    <string name="warning_permission_location">GPS tidak aktif, silahkan nyalakan GPS terlebih dahulu</string>
+    <string name="message_error_nama_format">Nama tidak boleh kosong</string>
+    <string name="message_error_photo_notselected">Photo belum dipilih</string>
+    <string name="message_success_create">Berhasil membuat cerita.</string>
+    <string name="message_success_register">Berhasil mendafar, silahkan masuk.</string>
+    <string name="random_text" translatable="false">국민경제의 발전을 위한 중요정책의 수립에 관하여 대통령의 자문에 응하기 위하여 국민경제자문회의를 둘 수 있다</string>
+    <string name="label_tanggal">Dibuat pada %1$s</string>
+    <string name="upload">Unggah</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="label_desc">Deskripsi</string>
+    <string name="action_label_logout">Keluar</string>
+    <string name="action_label_language">Ganti Bahasa</string>
+    <string name="action_label_addstory">Tambah Cerita</string>
+    <string name="label_coba_lagi">Coba lagi</string>
+    <string name="action_label_locationstory">Lokasi Cerita</string>
+</resources>

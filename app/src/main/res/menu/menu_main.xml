@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/actionadd"
+        app:showAsAction="ifRoom"
+        android:title="@string/action_label_addstory" />
+
+    <item
+        android:id="@+id/actionmapview"
+        android:title="@string/action_label_locationstory" />
+
+    <item
+        android:id="@+id/actionlanguage"
+        android:title="@string/action_label_language" />
+
+    <item
+        android:id="@+id/actionlogout"
+        android:title="@string/action_label_logout" />
+</menu>

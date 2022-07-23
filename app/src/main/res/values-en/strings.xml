@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="image_desc">Image</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_btn_signin">Sign In</string>
+    <string name="label_btn_register">Sign up now</string>
+    <string name="message_error_photo_notselected">Photo not selected</string>
+    <string name="message_error_nama_format">Name can\'t be empty</string>
+    <string name="message_success_create">Managed to make a story.</string>
+    <string name="label_dialog_positive_action">Okay</string>
+    <string name="label_login_have_account">Don\'t have an account?</string>
+    <string name="label_register_have_account">Already have an account?</string>
+    <string name="label_nama">Full Name</string>
+    <string name="message_error_email_format">Email format doesn\'t match</string>
+    <string name="message_error_typing_password">The number of passwords can\'t be less than 6 characters</string>
+    <string name="label_loading">Loading</string>
+    <string name="lebel_informasi">Information</string>
+    <string name="label_daftar">Register new account</string>
+    <string name="warning_permission_location">GPS is not active, please turn on GPS first</string>
+    <string name="message_success_register">Successfully registered, please login.</string>
+    <string name="action_label_locationstory">Story Location</string>
+    <string name="label_coba_lagi">Try Again</string>
+    <string name="action_label_addstory">Add Story</string>
+    <string name="action_label_language">Change Language</string>
+    <string name="action_label_logout">Exit</string>
+    <string name="label_desc">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="label_tanggal">Created on %1$s</string>
+</resources>
